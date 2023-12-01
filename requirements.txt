@@ -1,2 +1,2 @@
 # Requirements for installl numinfo.py
-python -m pip install phonenumbers
+python pip install phonenumbers
